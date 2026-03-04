@@ -1,4 +1,4 @@
-# [EduConnect - School Student-Family Portal](https://mikeygelooooo.pythonanywhere.com/ "Link to EduConnect Website")
+# EduConnect - School Student-Family Portal
 
 ## Project Overview
 
